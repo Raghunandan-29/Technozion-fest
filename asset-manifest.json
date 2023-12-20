@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Technozion-fest/static/css/main.a8892fda.css",
+    "main.js": "/Technozion-fest/static/js/main.db41e1c9.js",
+    "static/media/bulb-removebg-preview.png": "/Technozion-fest/static/media/bulb-removebg-preview.7e5fe22b56a4d9cfb776.png",
+    "static/media/image2.jpeg": "/Technozion-fest/static/media/image2.f4a31c46293047ee3d5f.jpeg",
+    "static/media/image3.jpeg": "/Technozion-fest/static/media/image3.37414b307d64d3b6b380.jpeg",
+    "static/media/image1.jpeg": "/Technozion-fest/static/media/image1.1bc1f588349c2ccb05a4.jpeg",
+    "static/media/collogeLogo.jpeg": "/Technozion-fest/static/media/collogeLogo.6785fdcbe41269b0608e.jpeg",
+    "static/media/hologram.png": "/Technozion-fest/static/media/hologram.14901fef1f4ed003a973.png",
+    "index.html": "/Technozion-fest/index.html",
+    "main.a8892fda.css.map": "/Technozion-fest/static/css/main.a8892fda.css.map",
+    "main.db41e1c9.js.map": "/Technozion-fest/static/js/main.db41e1c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8892fda.css",
+    "static/js/main.db41e1c9.js"
+  ]
+}
